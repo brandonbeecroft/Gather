@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="49px" height="49px" viewBox="0 0 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>searchIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Find-People" sketch:type="MSArtboardGroup" transform="translate(-167.000000, -1067.000000)">
+            <g id="Tab-Bar-2" sketch:type="MSLayerGroup" transform="translate(0.000000, 1046.000000)">
+                <g id="searchIcon" transform="translate(167.000000, 21.000000)" sketch:type="MSShapeGroup">
+                    <ellipse id="Oval-103" stroke="#FFFFFF" stroke-width="6" cx="19.4444444" cy="19.4886364" rx="19.4444444" ry="19.4886364"></ellipse>
+                    <rect id="Rectangle-221" fill="#FFFFFF" transform="translate(38.888889, 38.420455) rotate(-45.000000) translate(-38.888889, -38.420455) " x="35.5555556" y="26.7272727" width="6.66666667" height="23.3863636" rx="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

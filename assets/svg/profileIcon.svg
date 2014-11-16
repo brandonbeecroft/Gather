@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="44px" viewBox="0 0 40 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>profileIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Find-People" sketch:type="MSArtboardGroup" transform="translate(-428.000000, -1069.000000)" fill="#FFFFFF">
+            <g id="Tab-Bar-2" sketch:type="MSLayerGroup" transform="translate(0.000000, 1046.000000)">
+                <g id="profileIcon" transform="translate(428.000000, 23.000000)" sketch:type="MSShapeGroup">
+                    <path d="M20,29.7619048 C8.954305,29.7619048 0,36.0299183 0,43.7619048 L40,43.7619048 C40,36.0299183 31.045695,29.7619048 20,29.7619048 Z" id="Oval-96"></path>
+                    <rect id="Rectangle-203" x="10.9090909" y="0" width="18.1818182" height="26.1904762" rx="40"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
